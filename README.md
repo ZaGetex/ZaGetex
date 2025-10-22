@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Florian</h1>
 <h3 align="center">Vibe Coder/ Prompt God 🤙</h3>
 
-- 🔭 I’m currently working on **A lot of things**
+- 🔭 I’m currently working on **a lot of things**
 
-- 🌱 I’m currently learning **Coding myself**
+- 🌱 I’m currently learning **coding by myself**
 
-- 🤝 I’m looking for help with **My AI Addcition**
+- 🤝 I’m looking for help with **my AI Addcition**
 
-- 💬 Never ask me about **The origin of my code**
+- 💬 Never ask me about **the origin of my code**
 
-- 📫 How to reach me **Never**
+- 📫 How to reach me **never**
 
-- ⚡ Fun fact **This was written by AI**
+- ⚡ Fun fact **this was written by AI**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
